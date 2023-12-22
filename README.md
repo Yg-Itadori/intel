@@ -1,4 +1,4 @@
 # intel
 This is my first Git Repository.
-\n
+<br>
 Author- Aniket
